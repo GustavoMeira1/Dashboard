@@ -24,11 +24,6 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
 #app{
 background-color: hsl(226, 43%, 10%);
-justify-content: center !important;
-align-items: center !important;
-display: flex !important;
-margin: auto;
-padding: auto;
 font-family: 'Rubik', sans-serif;
 }
 </style>
